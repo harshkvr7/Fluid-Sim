@@ -1,4 +1,5 @@
-<video src='./demo.webm.mov'></video>
+<video src='./demo.gif'></video>
+
 # 2D Fluid Simulation with SDL2
 
 This repository contains a simple 2D fluid simulation implemented in C with real-time visualization using SDL2. The simulation models fluid behavior by simulating the diffusion and advection of a "dye" (density) within a fluid field. Users can interact with the simulation by injecting density and velocity forces using the mouse.
