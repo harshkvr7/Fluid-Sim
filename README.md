@@ -1,4 +1,4 @@
-<video src='./demo.gif'></video>
+![](https://raw.githubusercontent.com/harshkvr7/Fluid-Sim/dc534d79f63cd2ab3de388686add38b057bcdca7/demo.gif)
 
 # 2D Fluid Simulation with SDL2
 
